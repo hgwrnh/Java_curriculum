@@ -307,7 +307,7 @@ public class Qes1_13 {
 		
 		System.out.println(b_ah);
 		
-		
+	
 		// TODO 自動生成されたメソッド・スタブ
 
 	}
